@@ -14,7 +14,7 @@
 * 🎯 **Front-end Developer**
 * 🌱 Currently learning Python, back-end tools, and DevOps.
 * 💡 Passionate about Web Development and AI.
-* 📫 Contact me at [cristopherxs178@gmail.com](mailto:damianfigueroa2704@gmail.com).
+* 📫 Contact me at [damianfigueroa2704@gmail.com](mailto:damianfigueroa2704@gmail.com).
 * 🔥 I enjoy contributing to open-source projects and learning new things every day.
 
 </p>
